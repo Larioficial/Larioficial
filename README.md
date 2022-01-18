@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/Leonardo-Siqueira">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Siqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Siqueira&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Siqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Siqueira&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Bs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
