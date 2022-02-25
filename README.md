@@ -1,7 +1,7 @@
 ## Olá, me chamo Leonardo 👋 
 ### Seja muito bem-vindo ao meu GitHub! 😉
 
-- 🌱 Estudando desenvolvimento Web Fron-End
+- 🌱 Estudando desenvolvimento Web Front-End
 
 <div align="center">
   <a href="https://github.com/Leonardo-Siqueira">
