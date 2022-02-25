@@ -1,7 +1,7 @@
 ## Olá, me chamo Leonardo 👋 
 ### Seja muito bem-vindo ao meu GitHub! 😉
 
-- 🌱 Estudando desenvolvimento Full Stack
+- 🌱 Estudando desenvolvimento Web Fron-End
 
 <div align="center">
   <a href="https://github.com/Leonardo-Siqueira">
@@ -9,19 +9,12 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Siqueira&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Bs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Leo-Css" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-Elec" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
-  <img align="center" alt="Leo-Fire" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Leo-Git" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   <img align="center" alt="Leo-HTML" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-Js" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-Jquery" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-  <img align="center" alt="Leo-Mondb" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Leo-Nds" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Leo-React" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Leo-Redux" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-  <img align="center" alt="Leo-Socket" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg">
 </div>
   
   ##
