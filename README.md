@@ -1,7 +1,7 @@
 ## Olá, me chamo Leonardo 👋 
 ### Seja muito bem-vindo ao meu GitHub! 😉
 
-- 🌱 Estudando desenvolvimento Web Front-End
+- 🌱 Estudando desenvolvimento Mobile Nativo
 
 <div align="center">
   <a href="https://github.com/Leonardo-Siqueira">
@@ -13,8 +13,7 @@
   <img align="center" alt="Leo-Git" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   <img align="center" alt="Leo-HTML" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-Js" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-React" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Leo-Redux" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  
 </div>
   
   ##
