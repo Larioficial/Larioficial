@@ -1,28 +1,36 @@
-## Olá! Eu sou o Leonardo! 🖐️
-### Seja muito bem-vindo ao meu GitHub! 😉
+<h1 align="left">Oi! Eu sou o Leonardo Siqueira! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
-- 🌱 Estudando desenvolvimento Mobile Nativo
+- 🔥 Desenvolvedor Android
+<br>
 
-<div align="center">
-  <a href="https://github.com/Leonardo-Siqueira">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Siqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Siqueira&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Kotlin" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Leo-Android" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
-  <img align="center" alt="Leo-Studio" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Leo-Lite" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Leo-Git" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-  <img align="center" alt="Leo-HTML" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-Css" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-Js" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+## 🛠 &nbsp;Tecnologias
 
-</div>
-  
-  ##
-  
-  <div>
-  <a href = "mailto:leo.sique11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-siqueira-b63485228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-05122A?style=flat&logo=androidstudio)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+
+<br>
+
+## Contato
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/leonardo-siqueira-b63485228" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Leonardo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+</p>
+<br>
+
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=leonardo-siqueira&show_icons=true&theme=vision-friendly-dark" alt="leonardo-siqueira stats"/>
+</p>
