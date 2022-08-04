@@ -1,4 +1,4 @@
-## Olá, me chamo Leonardo 👋 
+## Olá! Eu sou o Leonardo! 🖐️
 ### Seja muito bem-vindo ao meu GitHub! 😉
 
 - 🌱 Estudando desenvolvimento Mobile Nativo
