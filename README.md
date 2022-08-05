@@ -25,7 +25,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/leonardo-siqueira-b63485228" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Leonardo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://www.linkedin.com/in/leo-siqueira/" alt="linkedin"/>
 </a>
 </p>
 <br>
