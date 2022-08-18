@@ -1,4 +1,4 @@
-<h1 align="left">Oi! Eu sou o Larissa Siqueira! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<h1 align="left">Oi! Eu sou Larissa Siqueira! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 - 🔥 Desenvolvedora Front End
 <br>
